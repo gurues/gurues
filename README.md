@@ -1,5 +1,7 @@
 # ¡Hola, soy un Ingeniero de Telecomunicaciones Friki del "cacharreo"!
 
+![LOGO](gurues3DO.jpg)
+
 ¡Bienvenidos a mi perfil de Github! Soy un apasionado de la programación y de todo lo relacionado con el mundo de la electrónica y la tecnología. En particular, disfruto mucho de "cacharrear" con Arduino, ESP8266, ESP32, Home Assistant e impresión 3D.
 
 ## Mis habilidades
