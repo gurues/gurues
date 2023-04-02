@@ -21,7 +21,7 @@ En resumen, soy un Ingeniero de Telecomunicaciones apasionado por la programaci�
 
 ## Contacto
 
-Si quieres saber más sobre mí o mis proyectos, no dudes en contactarme a través de mi perfil de GitHub o en mi e-mail ogurues@gmail.com.
+Si quieres saber más sobre mí o mis proyectos, no dudes en contactarme a través de mi perfil de [GitHub](https://github.com/gurues) o en mi e-mail ogurues@gmail.com.
 <!--
 **gurues/gurues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
