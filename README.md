@@ -9,6 +9,13 @@
 - Configuración y programación de plataformas de automatización del hogar, como Home Assistant, mqtt, nodered ...
 - Diseño y creación de modelos 3D para impresión 3D (Fusion360).
 
+## Proyectos destacados
+
+- [Home Assistant - Medidor de Consumos](https://github.com/gurues/PowerMeterDIY): Un dispositivo para Home Assistant que permite medir el consumo de una vivienda.
+- [ESP32 - MultiDataLogger](https://github.com/gurues/MultiDataLogger): DataLogger que registra los parámetros de diferentes sensores conectado al bus I2C del M5STACK (ESP32).
+- [ESP8266 - TERMOSTATO-BROKER](https://github.com/gurues/Termostato-Broker-Blynk_IOT): Termostáto de Control domótico.
+- [Arduino-UNO - Crono_Arena](https://github.com/gurues/Crono_Arena): Cronómetro de arena electrónico mediante un Acelerómetro-Giroscopio MPU-6050 (GY-521) y 2 display led MAX7219.
+
 ## Intereses
 
 - Tecnología: Estoy siempre interesado en conocer las últimas tendencias y novedades en el mundo de la tecnología y la electrónica.
