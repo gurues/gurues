@@ -6,7 +6,7 @@
 
 ## Mis habilidades
 
-- Programación en diferentes lenguajes, incluyendo, C++, Java, JavaScript, y otros.
+- Programación en diferentes lenguajes, incluyendo C++, Java, JavaScript, y otros.
 - Diseño y programación de circuitos electrónicos con Arduino, ESP8266, ESP32 y otros microcontroladores.
 - Configuración y programación de plataformas de automatización del hogar, como Home Assistant, mqtt, nodered ...
 - Diseño y creación de modelos 3D para impresión 3D (Fusion360).
