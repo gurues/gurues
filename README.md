@@ -19,7 +19,9 @@
 
 En resumen, soy un Ingeniero de Telecomunicaciones apasionado por la programación y el "cacharreo" con Arduino, ESP8266, ESP32, Home Assistant e impresión 3D. Si tienes algún proyecto en mente o simplemente quieres charlar sobre tecnología, ¡no dudes en contactarme! Estoy siempre dispuesto a colaborar y aprender algo nuevo.
 
+## Contacto
 
+Si quieres saber más sobre mí o mis proyectos, no dudes en contactarme a través de mi perfil de GitHub o en mi e-mail ogurues@gmail.com.
 <!--
 **gurues/gurues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
